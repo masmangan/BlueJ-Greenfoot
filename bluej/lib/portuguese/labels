@@ -324,7 +324,7 @@ editor.keypressed.callsTheFunction=chama a fun\u00E7\u00E3o "
 # Mensagens, alertas, etc que sao mostradas por Info.java
 editor.info.errorSaving=Erro ao salvar arquivo!
 editor.info.compiled=Classe compilada - nenhum erro de sintaxe
-editor.info.compileError =A classe possui um ou mais erros.\nPressione $ ou siga o 'link' à direita para o pr\u00F3ximo erro.
+editor.info.compileError =A classe possui um ou mais erros.\nPressione $ ou siga o 'link' \u00E1 direita para o pr\u00F3ximo erro.
 editor.info.noChanges=Nenhuma altera\u00E7\u00E3o a ser salva
 editor.info.emptySearchString=Texto vazio.
 editor.info.notFound=N\u00E3o encontrado (procurando novamente do in\u00EDcio).
